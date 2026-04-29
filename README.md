@@ -12,7 +12,6 @@
 - [Procurement Workflow System](https://github.com/IsaacTai13/procurement_workflow_system) - Team-built enterprise procurement workflow system with procurement process modeling and workflow management features.
 - [Selenium Automation Testing](https://github.com/Q1YAOCHEN/selenium-automation-testing) - Automated UI testing suite using Java, Selenium WebDriver, Maven, and TestNG.
 - [Transaction Processing App](https://github.com/Q1YAOCHEN/transaction-processing-app) - JavaFX transaction workflow application with user, item, offer, payment, queue, and history logic.
-- [FlexInterview Job Monitor](https://github.com/Q1YAOCHEN/flexinterview-jobmonitor) - Job monitoring and automation tooling project.
 
 ## Skills
 
