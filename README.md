@@ -12,6 +12,7 @@
 - [Procurement Workflow System](https://github.com/IsaacTai13/procurement_workflow_system) - Team-built enterprise procurement workflow system with procurement process modeling and workflow management features.
 - [Selenium Automation Testing](https://github.com/Q1YAOCHEN/selenium-automation-testing) - Automated UI testing suite using Java, Selenium WebDriver, Maven, and TestNG.
 - [Transaction Processing App](https://github.com/Q1YAOCHEN/transaction-processing-app) - JavaFX PayPal/Zelle-style portfolio project with multi-user transfers, payment requests, balances, and transaction history.
+- [AI/ML Systems Portfolio](https://github.com/Q1YAOCHEN/ai-ml-systems-portfolio) - Applied AI portfolio covering agentic systems, CIFAR-10 computer vision, GANs, diffusion models, and Text-to-SQL QLoRA fine-tuning.
 
 ## Skills
 
@@ -21,6 +22,9 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111)
 ![TestNG](https://img.shields.io/badge/TestNG-DC382D?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
