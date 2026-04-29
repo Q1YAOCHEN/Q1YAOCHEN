@@ -11,7 +11,7 @@
 - [SmartBuyer](https://github.com/6150WebDesignGroup/SmartBuyer) - Team-built full-stack shopping assistant web application. I contributed to core application features, UI implementation, and integration work.
 - [Procurement Workflow System](https://github.com/IsaacTai13/procurement_workflow_system) - Team-built enterprise procurement workflow system with procurement process modeling and workflow management features.
 - [Selenium Automation Testing](https://github.com/Q1YAOCHEN/selenium-automation-testing) - Automated UI testing suite using Java, Selenium WebDriver, Maven, and TestNG.
-- [Transaction Processing App](https://github.com/Q1YAOCHEN/transaction-processing-app) - JavaFX transaction workflow application with user, item, offer, payment, queue, and history logic.
+- [Transaction Processing App](https://github.com/Q1YAOCHEN/transaction-processing-app) - My JavaFX PayPal/Zelle-style portfolio project with multi-user transfers, payment requests, balances, and transaction history.
 
 ## Skills
 
