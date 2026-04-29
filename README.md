@@ -13,6 +13,7 @@
 - [Selenium Automation Testing](https://github.com/Q1YAOCHEN/selenium-automation-testing) - Automated UI testing suite using Java, Selenium WebDriver, Maven, and TestNG.
 - [Transaction Processing App](https://github.com/Q1YAOCHEN/transaction-processing-app) - JavaFX PayPal/Zelle-style portfolio project with multi-user transfers, payment requests, balances, and transaction history.
 - [AI/ML Systems Portfolio](https://github.com/Q1YAOCHEN/applied-ai-systems) - Applied AI portfolio covering agentic systems, CIFAR-10 computer vision, GANs, diffusion models, and Text-to-SQL QLoRA fine-tuning.
+- [AWS Job Monitor Notification Service](https://github.com/Q1YAOCHEN/aws-job-monitor-notification-service) - Serverless job-monitoring service using AWS Lambda, EventBridge, DynamoDB, SNS, and CloudWatch.
 
 ## Skills
 
@@ -27,4 +28,5 @@
 ![TestNG](https://img.shields.io/badge/TestNG-DC382D?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
