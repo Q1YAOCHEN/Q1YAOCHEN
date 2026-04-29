@@ -12,7 +12,7 @@
 - [Procurement Workflow System](https://github.com/IsaacTai13/procurement_workflow_system) - Team-built enterprise procurement workflow system with procurement process modeling and workflow management features.
 - [Selenium Automation Testing](https://github.com/Q1YAOCHEN/selenium-automation-testing) - Automated UI testing suite using Java, Selenium WebDriver, Maven, and TestNG.
 - [Transaction Processing App](https://github.com/Q1YAOCHEN/transaction-processing-app) - JavaFX PayPal/Zelle-style portfolio project with multi-user transfers, payment requests, balances, and transaction history.
-- [AI/ML Systems Portfolio](https://github.com/Q1YAOCHEN/ai-ml-systems-portfolio) - Applied AI portfolio covering agentic systems, CIFAR-10 computer vision, GANs, diffusion models, and Text-to-SQL QLoRA fine-tuning.
+- [AI/ML Systems Portfolio]([https://github.com/Q1YAOCHEN/ai-ml-systems-portfolio](https://github.com/Q1YAOCHEN/applied-ai-systems)) - Applied AI portfolio covering agentic systems, CIFAR-10 computer vision, GANs, diffusion models, and Text-to-SQL QLoRA fine-tuning.
 
 ## Skills
 
