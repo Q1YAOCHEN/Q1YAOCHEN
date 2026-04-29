@@ -1,6 +1,6 @@
 # Hi! I'm Qiyao Chen
 
-- Information Systems major focused on full-stack applications, automation, and practical software systems
+- Information Systems major with a Computer Science background, interested in full-stack development, automation, and practical software systems
 - Currently studying at Northeastern University
 - Interested in backend systems, web applications, QA automation, cloud deployment, and AI-assisted productivity tools
 - I like building projects that connect clean application logic with usable interfaces and reliable workflows
